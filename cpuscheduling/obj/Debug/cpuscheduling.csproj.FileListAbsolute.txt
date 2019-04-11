@@ -1,0 +1,14 @@
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.exe.config
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.exe
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.pdb
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.csprojAssemblyReference.cache
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.csproj.CoreCompileInputs.cache
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.exe
+C:\Users\ganielleDOTexe\source\repos\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.pdb
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.exe.config
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.exe
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\bin\Debug\cpuscheduling.pdb
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.csprojResolveAssemblyReference.cache
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.csproj.CoreCompileInputs.cache
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.exe
+C:\Users\strdsgdfrgrdfg\Desktop\cpuscheduling\cpuscheduling\obj\Debug\cpuscheduling.pdb
